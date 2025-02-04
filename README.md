@@ -13,3 +13,12 @@ This repository contains Python sscripts to solve problems related to linear alg
     1. Determine if the set {v1,v2,v3} is linearly independent.
   
     2. Verify if {v1,v2,v3} spans R^3.
+
+2. <ins> Checking if {b1,b2,b3} is a Basis for R^3:
+
+    1. Verify if {b1,b2,b3} forms a basis by checking rank and independence.
+
+# Methodology
+
+The calculations are performed using Python and the NumPy library.
+
