@@ -22,3 +22,8 @@ This repository contains Python sscripts to solve problems related to linear alg
 
 The calculations are performed using Python and the NumPy library.
 
+1. <ins> Linear Independence Check</ins>
+
+   1. Compute the determinants of the matrix formed by the vectors as columns.
+  
+   2. If the determinant is non-zero, then the vectors are independent.
