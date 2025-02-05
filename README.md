@@ -27,3 +27,15 @@ The calculations are performed using Python and the NumPy library.
    1. Compute the determinants of the matrix formed by the vectors as columns.
   
    2. If the determinant is non-zero, then the vectors are independent.
+  
+2. <ins> Span Check </ins>
+
+   1. Compute the rank of the matrix formed by the vectors.
+  
+   2. If the rank equals the dimension, then the vector spans R^3.
+  
+3. <ins> Basis Verification </ins>
+
+   1. A set of vectors is a basis if they are linearly independent and spans the vector space.
+  
+   2. This is confirmed by checking if the rank is 3.
