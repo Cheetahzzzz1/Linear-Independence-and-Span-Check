@@ -39,3 +39,19 @@ The calculations are performed using Python and the NumPy library.
    1. A set of vectors is a basis if they are linearly independent and spans the vector space.
   
    2. This is confirmed by checking if the rank is 3.
+
+# Results
+
+1. <ins> For {v1,v2,v3}</ins>
+
+    1. Determinant is 6, meaning the set is linearly independent.
+  
+    2. Rank is 3, meaning the set spans R^3.
+  
+    3. The set forms a basis for R^3.
+  
+2. <ins> For {b1,b2,b3}</ins>
+
+    1. Rank is 2, meaning the set is not independent and does not span R^3.
+  
+    2. The set does not form a basis for R^3.
